@@ -30,7 +30,7 @@ Her bir ilin bilgileri aşağıdaki alanları içermektedir:
 
   # Veri kullanımı için gerekli işlemleri yapın
   
--CSV dosyasını programatik olarak kullanmak için:
+- CSV dosyasını programatik olarak kullanmak için:
 ```python
 import pandas as pd
 
